@@ -1,3 +1,1 @@
-- Hopefully fixed the official multiplayer server
-- Removed a few testing things that got left in
-- Fixed updater
+- Fixed chat breaking after a certain number of messages have been sent
