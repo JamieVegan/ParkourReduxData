@@ -1,1 +1,5 @@
-- Fixed updater for real this time
+- Hopefully fixed updater?
+- Removed sun for now
+- Fixed chat not closing when pressing escape or enter
+- Fixed being able to use commands in multiplayer
+- Fixed changing your username in multiplayer causing bugs
