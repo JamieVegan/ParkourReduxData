@@ -1,5 +1,5 @@
-- Hopefully fixed updater?
-- Removed sun for now
-- Fixed chat not closing when pressing escape or enter
-- Fixed being able to use commands in multiplayer
-- Fixed changing your username in multiplayer causing bugs
+## Small movement update, everything should feel a lot less slippery now
+- Increased player acceleration
+- Increased air acceleration when at 10m/s or lower
+- Increased minimum air resistance
+- Decreased maximum air resistance
