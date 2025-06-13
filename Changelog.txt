@@ -1,5 +1,7 @@
-## Small movement update, everything should feel a lot less slippery now
-- Increased player acceleration
-- Increased air acceleration when at 10m/s or lower
-- Increased minimum air resistance
-- Decreased maximum air resistance
+- Added a notification on screen for when you get invited to a party
+- Wallclimbing under 20m/s now halves your speed unless you're using coil
+- Quick turn now works while aiming (mostly)
+- New VSync mode that should hopefully have less input latency
+- Added name length and chat message length limit
+- Added join and leave messages in servers
+- Changed default sensitivity (0.10441 -> 0.25)
